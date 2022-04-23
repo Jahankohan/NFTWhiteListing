@@ -1,0 +1,12 @@
+local:
+  privatekey: "3942de923e65c714b27106f0d0ccb7f0e35fee3e7a1075a26e3d81942c863154"
+  network: "http://localhost:8545"
+  chainid: 1337
+
+testnet:
+  privatekey: ""
+  network: ""
+
+mainnet:
+  privatekey: ""
+  network: ""
