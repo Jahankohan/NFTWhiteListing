@@ -1,4 +1,4 @@
-# NFTWhiteLising
+# NFTWhiteListing
 
 White Listing mechanism implemented Using Solidity and Go, and for this purpose we used Solidity to implement Merkle Tree, Go is used for Deploying, Interacting and Testing Smart Contract.
 
