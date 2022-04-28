@@ -1,12 +1,18 @@
 local:
-  privatekey: "62bccd098743ab851901ac51e826722c5f414b1fdb40c6368ffdd048861fa6a6"
+  ownerprivatekey: "62bccd098743ab851901ac51e826722c5f414b1fdb40c6368ffdd048861fa6a6"
+  nonownerprivatekey: "79e41139622c4b47d111d11dec38028a27e992b4c8a5d1e39a5c8d736e54250f"
+  nonwhitelistedprivatekey: "51dd0400b19bd616f658782bdee6be20149215a828a293d7bb605f9df4dbd8fb"
   network: "http://localhost:8545"
   chainid: 1337
 
 testnet:
   privatekey: ""
+  nonownerprivatekey: ""
+  nonwhitelistedprivatekey: ""
   network: ""
 
 mainnet:
   privatekey: ""
+  nonownerprivatekey: ""
+  nonwhitelistedprivatekey: ""
   network: ""
